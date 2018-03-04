@@ -22,6 +22,8 @@ Output Format
 Print one line: the name of the winner and their score separated by a space.
 
 If the game is a draw, print Draw.
+
+URL=https://www.hackerrank.com/challenges/the-minion-game/problem
 """
 
 
