@@ -17,6 +17,10 @@ String  = BANANA
 Kevin's vowel beginning word = ANA
 Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points. 
 
+Input Format
+
+A single line of input containing the string S. 
+
 Output Format
 
 Print one line: the name of the winner and their score separated by a space.
