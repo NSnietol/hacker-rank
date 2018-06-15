@@ -17,9 +17,6 @@ A single line of output consisting of the modified string.
 Constraints
 
 All the characters of  S denote integers between  0 and 9.
-
-
-
 """
 
 

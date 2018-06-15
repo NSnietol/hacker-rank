@@ -18,7 +18,6 @@ The string contains only UPPERCASE characters.
 Output Format
 
 Print the different combinations of string  on separate lines.
-
 """
 from itertools import combinations
 
