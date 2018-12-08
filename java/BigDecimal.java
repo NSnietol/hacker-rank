@@ -15,6 +15,9 @@ Each line  i  of n the  subsequent lines contains a real number denoting the val
 Output Format
 
 Locked stub code in the editor will print the contents of array S to stdout. You are only responsible for reordering the array's elements.
+
+Reference
+https://www.hackerrank.com/challenges/java-bigdecimal/problem
 **/
 
 
