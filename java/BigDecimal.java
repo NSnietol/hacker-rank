@@ -38,7 +38,7 @@ class Solution{
      // BigDecimal of each value so that the numerical value is not altered.
      // that is formatted as a string for example: .1 does not become 0.1
      // when casting to numerical value           
-    Comparator<String> comparetor = new Comparator<String>() {
+    Comparator<String> comparator = new Comparator<String>() {
     @Override
     public int compare(String s1, String s2) {
         BigDecimal a = new BigDecimal(s1);
@@ -47,7 +47,7 @@ class Solution{
     }
 };
 
-Arrays.sort(s, 0, n, customComparator);
+Arrays.sort(s, 0, n, comparator);
 
 
         //Output
